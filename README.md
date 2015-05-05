@@ -1,6 +1,8 @@
 Multiple Layout ListView For Android
 ========================
 
+Developed by <a href='https://github.com/LeonardoCardoso' target='_blank'>@LeonardoCardoso</a>. 
+
 This is an app to show how to use multiple layouts on Android.
 
 Basically, you have to follow these steps:
