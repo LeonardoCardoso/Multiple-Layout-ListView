@@ -17,4 +17,4 @@ Basically, you have to follow these steps:
 For more details, visit http://android.leocardz.com/multiple-layout-listview/
 
 
-![Normal](https://dl.dropbox.com/s/b0iuiso6wis2c1m/multi.gif)
+![Normal](https://dl.dropbox.com/s/h7xcyfhaxqnmnfr/multi.gif)
