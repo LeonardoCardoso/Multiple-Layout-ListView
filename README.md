@@ -19,6 +19,9 @@ For more details, visit http://android.leocardz.com/multiple-layout-listview/
 
 ![Normal](http://i.imgur.com/pb1jDHY.gif)
 
+## Contact
+
+Contact me either by Twitter [@leocardz](https://twitter.com/leocardz) or emailing me to [contact@leocardz.com](mailto:contact@leocardz.com).
 
 ## License
 
