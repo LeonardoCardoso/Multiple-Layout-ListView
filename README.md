@@ -14,9 +14,6 @@ Basically, you have to follow these steps:
 5. Additionally, it's essential to use a view holder to avoid memory leaks.
 
 
-For more details, visit http://android.leocardz.com/multiple-layout-listview/
-
-
 ![Normal](http://i.imgur.com/pb1jDHY.gif)
 
 ## Contact
